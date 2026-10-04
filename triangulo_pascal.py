@@ -1,5 +1,5 @@
 """
-Triángulo de Pascal - Versión corregida
+Triángulo de Pascal
 """
 
 def generar_triangulo_pascal(n):
