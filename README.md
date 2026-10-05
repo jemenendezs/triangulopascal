@@ -66,6 +66,6 @@ triangulopascal/
 ├── LICENSE
 ```
 
-## Autor
+## Notas
 
 Proyecto desarrollado en Python para practicar la generación de patrones numéricos y la lógica de programación.
